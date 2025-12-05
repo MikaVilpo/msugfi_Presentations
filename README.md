@@ -8,7 +8,12 @@ Microsoft Security User Group Finland presentation archive.
 
 📍 **27.11.2025** @ 2NS
 - **Vulnerabilities in GenAI Systems and how to tackle them** - Miska Kytö [📄](Sessions/2025/MiskaKyto_VulnerabilitiesInGenAISystemsAndHowToTackleThem.pdf)
+- **Modern network security in Azure with Network Security Perimeter** - Jere Haavisto
 
+📍 **27.10.2025** @ Teams
+- **Tietoturvaa ilman hypeä – PK-yrityksille sopivat ratkaisut** - Matias Haapaniemi
+- **Conditional Access Policies That Everyone Needs** - Valtteri Aho
+  
 📍 **25.9.2025** @ Microsoft
 - **Keeping coders and vibe coders secure with GitHub Advanced Security** - Lukas Lundin
 - **Decade in DevSecOps - Key takeaways from the journey** - Joona Immonen [📄](Sessions/2025/JoonaImmonen_DecadeInDevSecOps.pdf)
