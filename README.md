@@ -32,7 +32,7 @@ Microsoft Security User Group Finland presentation archive.
 
 📍 **27.2.2025** @ Elisa
 - **Tietomurtotutkinta M365 maailmassa** - Juuso Myllylä
-- **Passwordless App Infrastructures Utilizing Azure Managed Identities** - Pasi Huuhka
+- **Passwordless App Infrastructures Utilizing Azure Managed Identities** - Pasi Huuhka [📄](Sessions/2025/PasiHuuhka-PasswordlessInfra.pdf)
 
 📍 **15.1.2025** @ Arrow ECS
 - **Copilot for Security: Isojen talojen kallis lelu vai jokahenkilön kätevä apuri?** - Arimo Perosvuo
