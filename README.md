@@ -36,7 +36,7 @@ Microsoft Security User Group Finland presentation archive.
 
 📍 **15.1.2025** @ Arrow ECS
 - **Copilot for Security: Isojen talojen kallis lelu vai jokahenkilön kätevä apuri?** - Arimo Perosvuo
-- **Microsoft Dev Box - Securing your company's crown jewels** - Joni Nieminen
+- **Microsoft Dev Box - Securing your company's crown jewels** - Joni Nieminen [📄](Sessions/2025/JoniNieminen-MicrosoftDevBox.pdf)
 
 ---
 
