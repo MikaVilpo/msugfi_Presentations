@@ -6,6 +6,14 @@ Microsoft Security User Group Finland presentation archive.
 
 ## 📅 2025
 
+📍 **27.11.2025** @ 2NS
+- **Vulnerabilities in GenAI Systems and how to tackle them** - Miska Kytö [📄](Sessions/2025/MiskaKyto_VulnerabilitiesInGenAISystemsAndHowToTackleThem.pdf)
+- **Modern network security in Azure with Network Security Perimeter** - Jere Haavisto
+
+📍 **27.10.2025** @ Teams
+- **Tietoturvaa ilman hypeä – PK-yrityksille sopivat ratkaisut** - Matias Haapaniemi
+- **Conditional Access Policies That Everyone Needs** - Valtteri Aho
+  
 📍 **25.9.2025** @ Microsoft
 - **Keeping coders and vibe coders secure with GitHub Advanced Security** - Lukas Lundin
 - **Decade in DevSecOps - Key takeaways from the journey** - Joona Immonen [📄](Sessions/2025/JoonaImmonen_DecadeInDevSecOps.pdf)
@@ -24,11 +32,11 @@ Microsoft Security User Group Finland presentation archive.
 
 📍 **27.2.2025** @ Elisa
 - **Tietomurtotutkinta M365 maailmassa** - Juuso Myllylä
-- **Passwordless App Infrastructures Utilizing Azure Managed Identities** - Pasi Huuhka
+- **Passwordless App Infrastructures Utilizing Azure Managed Identities** - Pasi Huuhka [📄](Sessions/2025/PasiHuuhka-PasswordlessInfra.pdf)
 
 📍 **15.1.2025** @ Arrow ECS
 - **Copilot for Security: Isojen talojen kallis lelu vai jokahenkilön kätevä apuri?** - Arimo Perosvuo
-- **Microsoft Dev Box - Securing your company's crown jewels** - Joni Nieminen
+- **Microsoft Dev Box - Securing your company's crown jewels** - Joni Nieminen [📄](Sessions/2025/JoniNieminen-MicrosoftDevBox.pdf)
 
 ---
 
@@ -39,7 +47,7 @@ Microsoft Security User Group Finland presentation archive.
 - **Exploring Common Attack Scenarios in Microsoft Cloud Services (Vol 2)** - Sami Lamppu, Joosua Santasalo
 
 📍 **23.10.2024** @ Zure
-- **Protecting the Generative-AI content with Azure AI Content Safety** - Petrus Vasenius
+- **Protecting the Generative-AI content with Azure AI Content Safety** - Petrus Vasenius [📄](Sessions/2024/PetrusVasenius_AiContentSafety.pdf)
 - **What Should Security Pro Know About AI** - Markus Lintuala [📄](Sessions/2024/MarkusLintuala_WhatShouldSecurityProKnowAboutAI.pdf)
 
 📍 **24.9.2024** @ Microsoft
